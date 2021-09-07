@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2021 - 05 September, 2021
+Week: 31 August, 2021 - 06 September, 2021
 
 Rust          50 hrs 14 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.55 % 
 sh            12 hrs 12 mins  ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.90 % 
