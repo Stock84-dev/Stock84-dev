@@ -45,9 +45,7 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 51 hrs 30 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 Rust    34 hrs 37 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀   64.98 % 
 sh      15 hrs 37 mins  ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.31 % 
