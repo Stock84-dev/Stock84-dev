@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 
 ## 📊 Weekly development breakdown
+Wakatime - time tracker profile: [@stock84](https://wakatime.com/@stock84)
 <!--START_SECTION:waka-->
 
 ```text
